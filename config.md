@@ -2,9 +2,9 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Raman Kumar"
+author = "Raman Kumar, Biagio De Simone"
 mintoclevel = 2
-prepath  = "Maria.github.io/"
+prepath  = "MariaDainotti.github.io/"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
@@ -16,7 +16,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Maria Giovanna Dainotti"
 website_descr = "Example website using Franklin"
-website_url   = "https://raman-maker.github.io/Maria.github.io/"
+website_url   = "https://slac-gamma-rays.github.io/MariaDainotti.github.io/"
 +++
 
 <!--
