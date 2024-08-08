@@ -9,8 +9,7 @@ tags = ["syntax", "code"]
 @@center ![](/assets/Shubham.jpg) @@ 
 
 ## 🟢 Biagio De Simone
-@@center ![](/assets/Biagio.jpg) @@ 
-Test
+@@center ![](/assets/Biagio.jpg) @@
 
 # Project Students
 
