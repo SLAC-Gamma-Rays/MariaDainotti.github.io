@@ -5,7 +5,7 @@ tags = ["syntax", "code"]
 +++
 # Phd Students
 
-## 🟢 Shubham Bharadwaj
+## 🟢 Shubham Bhardwaj
 @@center ![](/assets/Shubham.jpg) @@ 
 
 ## 🟢 Biagio De Simone
