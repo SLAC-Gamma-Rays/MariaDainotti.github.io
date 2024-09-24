@@ -5,9 +5,6 @@ tags = ["syntax", "code"]
 +++
 # Phd Students
 
-## 🟢 Shubham Bhardwaj
-@@center ![](/assets/Shubham.jpg) @@ 
-
 ## 🟢 Biagio De Simone
 @@center ![](/assets/Biagio.jpg) @@
 
@@ -15,3 +12,8 @@ tags = ["syntax", "code"]
 
 ## 🟢 Aleksander Łukasz Lenart
 @@center ![](/assets/Portretal.jpg) @@ 
+
+# Former Phd Students
+
+## 🟢 Shubham Bhardwaj
+@@center ![](/assets/Shubham.jpg) @@ 
