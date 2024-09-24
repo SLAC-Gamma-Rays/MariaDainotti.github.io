@@ -7,6 +7,7 @@ tags = ["syntax", "code"]
 
 ## 🟢 Biagio De Simone
 @@center ![](/assets/Biagio.jpg) @@
+<a href="MariaDainotti.github.io/_assets/Biagio_letter.pdf" target="_blank">PDF.</a>
 
 # Project Students
 
