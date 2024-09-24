@@ -13,7 +13,8 @@ tags = ["syntax", "code"]
 # Project Students
 
 ## 🟢 Kamil Kalinowski
-@@center ![]() @@ 
+@@center ![](/assets/kamil.jpg) @@
+> Hi, I am Kamil Kalinowski and I have just completed Master's degree at Aarhus University. I've been working with Maria mostly during my bachelor's degree at Jagiellonian University. I have contributed to the study of [Fundamental Plane Correlations](https://iopscience.iop.org/article/10.3847/1538-4365/ac7c64) and to GRB observations from Kiso, with some of the data added to [the GRB catalogue](https://academic.oup.com/mnras/article/533/4/4023/7697178?login=false) that was recently published. 
 [Read Kamil's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Kamil_Testimonial.pdf)
 
 ## 🟢 Aleksander Łukasz Lenart
