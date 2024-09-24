@@ -7,14 +7,14 @@ tags = ["syntax", "code"]
 
 ## 🟢 Biagio De Simone
 @@center ![](/assets/Biagio.jpg) @@
-<a href="MariaDainotti.github.io/_assets/Biagio_letter.pdf" target="_blank">PDF.</a>
+[Read Biagio's letter about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Biagio_letter.pdf)
 
 # Project Students
 
 ## 🟢 Aleksander Łukasz Lenart
 @@center ![](/assets/Portretal.jpg) @@ 
 
-# Former Phd Students
+# Former Students
 
 ## 🟢 Shubham Bhardwaj
 @@center ![](/assets/Shubham.jpg) @@ 
