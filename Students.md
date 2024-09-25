@@ -12,7 +12,7 @@ tags = ["syntax", "code"]
 
 ## 🟢 Giada Bargiacchi
 @@center ![](/assets/Giada.jpg) @@
-> 
+> Hello, I am Giada Bargiacchi and I am a 4rd year PhD student at the Scuola Superiore Meridionale in Naples on the project "Cosmology, Sapce Science & Space Technology". I have been collaborating with Maria since 2021 on the application of Quasars and Gamma-Ray Bursts in cosmology and its implication on the current cosmological tensions. We have published 10 papers together and one review is currently under revision. This collaboration really inspired me and boosted my research.
 [Read Giada's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Giada_signed.pdf)
 
 # Project Students
