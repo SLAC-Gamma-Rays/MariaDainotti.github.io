@@ -32,8 +32,7 @@ tags = ["syntax", "code"]
 ## 🟢 Aleksander Łukasz Lenart
 @@center ![](/assets/Portretal.jpg) @@ 
 
-
 # Former Students
 
 ## 🟢 Shubham Bhardwaj
-@@center ![](/assets/Shubham.jpg) @@ 
+@@center ![](/assets/Shubham.jpg) @@
