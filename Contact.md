@@ -12,6 +12,8 @@ title = "Contact"
 
 ### Second Email 👉 : mariagiovannadainotti@yahoo.it
 
+### Other links:
+
 [Linkedin](https://www.linkedin.com/in/maria-giovanna-dainotti-52392049/)
 
 [Google Scholar](https://scholar.google.com/citations?user=1NXy7lIAAAAJ&hl=en)
