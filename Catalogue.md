@@ -18,4 +18,4 @@ We are happy to announce the publication of the most complete data collection of
 * [The GitHub-based grbLC package and data repository](https://github.com/SLAC-Gamma-Rays/grbLC)
 
 ### A global collection of photometric data
-> In this project, data from more than 450 telescopes from all over the world and above our heads are collected together. Among the most relevant, we cite the following:
+> In this project, data from more than 450 telescopes from all over the world and above our heads are collected together. Among the most relevant, we cite the following: SORRY, PAGE UNDER CONSTRUCTION
