@@ -4,8 +4,8 @@ hascode = true
 tags = ["syntax", "code"]
 +++
 
-# UNDER CONSTRUCTION
+# An optical Gamma-ray Burst catalogue with measured redshift
 
-## 🟢 Under construction
+## 🟢 Data release of 535 Gamma-ray Bursts and colour evolution
 @@center ![](/assets/TEST.jpg) @@
 > UNDER CONSTRUCTION
