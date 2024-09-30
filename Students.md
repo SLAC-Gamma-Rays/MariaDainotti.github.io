@@ -18,6 +18,10 @@ tags = ["syntax", "code"]
 
 # Project Students
 
+## 🟢 Aditi Manchanda
+@@center ![](/assets/Aditi.jpeg) @@
+> Hello, I am Aditi Manchanda and I have completed my Master's degree in Physics at the Indian Institute of Technology Hyderabad (IITH). My primary interest lies in the intersection of artificial intelligence and astrophysics, specifically in applying ML techniques to analyze astrophysical data. Currently, I am working with Maria on the stochastic reconstruction of gamma-ray burst (GRB) light curves using machine-learning methodologies.
+
 ## 🟢 Kamil Kalinowski
 @@center ![](/assets/kamil.jpg) @@
 > Hi, I am Kamil Kalinowski and I have just completed Master's degree at Aarhus University. I've been working with Maria mostly during my bachelor's degree at Jagiellonian University. I have contributed to the study of [Fundamental Plane Correlations](https://iopscience.iop.org/article/10.3847/1538-4365/ac7c64) and to GRB observations from Kiso, with some of the data added to [the GRB catalogue](https://academic.oup.com/mnras/article/533/4/4023/7697178?login=false) that was recently published. 
