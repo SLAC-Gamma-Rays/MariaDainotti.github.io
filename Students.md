@@ -5,7 +5,7 @@ tags = ["syntax", "code"]
 +++
 
 # Selected Students
-> I supervised more than 140 students during my career. I here show a Selection of my students due to page limits. In case you want to contact me, please use the information reported in the "Contact" page.
+> I supervised more than 140 students during my career. I here show a Selection of my students due to page limits. In case you want to contact me, please use the information reported in the [Contact](https://slac-gamma-rays.github.io/MariaDainotti.github.io/Contact/) page.
 
 # Ph.D. Students
 
