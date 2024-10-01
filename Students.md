@@ -25,23 +25,25 @@ tags = ["syntax", "code"]
 @@center ![](/assets/Aditi.jpeg) @@
 > Hello, I am Aditi Manchanda and I have completed my Master's degree in Physics at the Indian Institute of Technology Hyderabad (IITH). My primary interest lies in the intersection of artificial intelligence and astrophysics, specifically in applying ML techniques to analyze astrophysical data. Currently, I am working with Maria on the stochastic reconstruction of gamma-ray burst (GRB) light curves using machine-learning methodologies.
 
-## 🟢 Kamil Kalinowski
-@@center ![](/assets/kamil.jpg) @@
-> Hi, I am Kamil Kalinowski and I have just completed Master's degree at Aarhus University. I've been working with Maria mostly during my bachelor's degree at Jagiellonian University. I have contributed to the study of [Fundamental Plane Correlations](https://iopscience.iop.org/article/10.3847/1538-4365/ac7c64) and to GRB observations from Kiso, with some of the data added to [the GRB catalogue](https://academic.oup.com/mnras/article/533/4/4023/7697178?login=false) that was recently published. 
-[Read Kamil's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Kamil_Testimonial.pdf)
-
 ## 🟢 Augusto C. Caligula do E. S. Pedreira
 @@center ![](/assets/Caligula.jpg) @@
 > Hi, my name is Augusto C. Caligula do E. S. Pedreira. I'm a PhD in Astrophysics by the Universidad Nacional Autónoma de México, whose specialty is the theoretical modeling of GRBs and their polarization. I've worked with Maria since 2022 and have a total of 5 accepted/published collaborations in academic journals of high repute, including the recently published [largest optical catalogue of GRBs with measured redshift](https://academic.oup.com/mnras/article/533/4/4023/7697178), and a [couple](https://iopscience.iop.org/article/10.3847/1538-4357/aca019) of [papers](https://arxiv.org/abs/2210.12904) in which I was the first author. 
 [Read Caligula's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Caligula.pdf)
 
-# Undergraduates and Masters
+# Undergraduates
 
 ## 🟢 Delina Levine
 @@center ![](/assets/delina.jpg) @@
 > 
 [Read Delina's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/levine_testimonial.pdf)
 
+# Masters
+
 ## 🟢 Aleksander Łukasz Lenart
 @@center ![](/assets/Aleksander.jpg) @@ 
 > Hi, My name is Aleksander Lenart. I am currently (10.2024) a final-year Master's degree student at Jagiellonian University in Kraków. I began my collaboration with Maria in April 2020 as a high school student. I had an opportunity to contribute to the research at every stage of creating a paper, from data gathering through developing new statistical procedures to addressing the referee's comments. The long hours of hard work resulted in 10 peer-reviewed papers, 3 conference talks, and 3 posters.
+
+## 🟢 Kamil Kalinowski
+@@center ![](/assets/kamil.jpg) @@
+> Hi, I am Kamil Kalinowski and I have just completed Master's degree at Aarhus University. I've been working with Maria mostly during my bachelor's degree at Jagiellonian University. I have contributed to the study of [Fundamental Plane Correlations](https://iopscience.iop.org/article/10.3847/1538-4365/ac7c64) and to GRB observations from Kiso, with some of the data added to [the GRB catalogue](https://academic.oup.com/mnras/article/533/4/4023/7697178?login=false) that was recently published. 
+[Read Kamil's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Kamil_Testimonial.pdf)
