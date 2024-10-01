@@ -2,7 +2,7 @@
 title = "Publications"
 +++
 
-# Research Acheivements
+# Research Achievements
 
 >⊛ A time–luminosity correlation for γ-ray bursts in the X-rays
     MG Dainotti, VF Cardone, S Capozziello, Monthly Notices of the Royal Astronomical Society: Letters 391 (1), L79-L83
