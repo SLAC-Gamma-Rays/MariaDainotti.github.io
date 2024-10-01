@@ -4,6 +4,9 @@ hascode = true
 tags = ["syntax", "code"]
 +++
 
+# Selected Students
+> I supervised more than 140 students during my career. I here show a Selection of my students due to page limits. In case you want to contact me, please use the information reported in the "Contact" page.
+
 # Ph.D. Students
 
 ## 🟢 Biagio De Simone
@@ -42,8 +45,3 @@ tags = ["syntax", "code"]
 ## 🟢 Aleksander Łukasz Lenart
 @@center ![](/assets/Aleksander.jpg) @@ 
 > Hi, My name is Aleksander Lenart. I am currently (10.2024) a final-year Master's degree student at Jagiellonian University in Kraków. I began my collaboration with Maria in April 2020 as a high school student. I had an opportunity to contribute to the research at every stage of creating a paper, from data gathering through developing new statistical procedures to addressing the referee's comments. The long hours of hard work resulted in 10 peer-reviewed papers, 3 conference talks, and 3 posters.
-
-# Former Students
-
-## 🟢 Shubham Bhardwaj
-@@center ![](/assets/Shubham.jpg) @@
