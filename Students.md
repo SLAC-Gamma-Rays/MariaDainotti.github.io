@@ -18,6 +18,11 @@ tags = ["syntax", "code"]
 
 # Project Students
 
+## 🟢 Delina Levine
+@@center ![](/assets/delina.jpg) @@
+> 
+[Read Delina's letter about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/levine_testimonial.pdf)
+
 ## 🟢 Aditi Manchanda
 @@center ![](/assets/Aditi.jpeg) @@
 > Hello, I am Aditi Manchanda and I have completed my Master's degree in Physics at the Indian Institute of Technology Hyderabad (IITH). My primary interest lies in the intersection of artificial intelligence and astrophysics, specifically in applying ML techniques to analyze astrophysical data. Currently, I am working with Maria on the stochastic reconstruction of gamma-ray burst (GRB) light curves using machine-learning methodologies.
