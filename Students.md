@@ -14,15 +14,15 @@ tags = ["syntax", "code"]
 > 
 [Read Biagio's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Aditya_testimonial.pdf)
 
+## 🟢 Giada Bargiacchi
+@@center ![](/assets/Giada.jpg) @@
+> Hello, I am Giada Bargiacchi and I am a 4rd year PhD student at the Scuola Superiore Meridionale in Naples on the project "Cosmology, Space Science & Space Technology". I have been collaborating with Maria since 2021 on the application of Quasars and Gamma-Ray Bursts in cosmology and its implication on the current cosmological tensions. We have published 10 papers together and one review is currently under revision. This collaboration really inspired me and boosted my research.
+[Read Giada's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Giada_signed.pdf)
+
 ## 🟢 Biagio De Simone
 @@center ![](/assets/Biagio.jpg) @@
 > Hello, my name is Biagio De Simone. I am a 3rd year Ph.D. candidate from the University of Salerno. I've been working with Maria since March 2020 on the Gamma-Ray Bursts astrophysics and cosmology. Thanks to this collaboration, I published 5 papers as Maria's co-author, in particular I investigated [the Hubble constant tension through Supernovae Ia](https://iopscience.iop.org/article/10.3847/1538-4357/abeb73) and I contributed to build [the most complete catalogue of optical GRBs with redshift to date](https://academic.oup.com/mnras/article/533/4/4023/7697178).
 [Read Biagio's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Biagio_letter.pdf)
-
-## 🟢 Giada Bargiacchi
-@@center ![](/assets/Giada.jpg) @@
-> Hello, I am Giada Bargiacchi and I am a 4rd year PhD student at the Scuola Superiore Meridionale in Naples on the project "Cosmology, Sapce Science & Space Technology". I have been collaborating with Maria since 2021 on the application of Quasars and Gamma-Ray Bursts in cosmology and its implication on the current cosmological tensions. We have published 10 papers together and one review is currently under revision. This collaboration really inspired me and boosted my research.
-[Read Giada's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Giada_signed.pdf)
 
 # Project Students
 
