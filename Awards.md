@@ -10,11 +10,10 @@
 
 ##  Academic Awards 🏆
 
-
+@@center ![](/assets/la_sitta.jpg) @@ 
 >🟢 Received the Knighthood of the Italian Republic, order of merit of the Italian Republic, the highest recognition in Italy, for excellence in the field of Astrophysics. This prize is among the highest recognition in Italy. Notably, I was awarded this prize at the age of 34, when it is typically awarded to individuals over the age of 35. The ceremony took place in the historic Quirinale Palace in Rome the 8th March 2013.
 
->🟢  @@center ![](/assets/la_sitta.jpg) @@ 
->I received the International Principess Sichelgaita Prize on the 4th of June 2018. It is a prestigious international award that enjoys the patronage of the Chamber of Deputies, the Senate, and the Presidency of the Italian Republic. I received the medal from the Presidency of the Italian Republic. The Prize promotes women from the South of Italy who have distinguished themselves and have become role models in their category at national and international levels.
+>🟢 I received the International Principess Sichelgaita Prize on the 4th of June 2018. It is a prestigious international award that enjoys the patronage of the Chamber of Deputies, the Senate, and the Presidency of the Italian Republic. I received the medal from the Presidency of the Italian Republic. The Prize promotes women from the South of Italy who have distinguished themselves and have become role models in their category at national and international levels.
 
 >🟢 Named Marie Curie’ Fellow of the week 26th of April 2019 from the Marie Curie Programme Scheme. The award has been notified on 29th of October 2018.
 
