@@ -12,7 +12,7 @@ tags = ["syntax", "code"]
 ## 🟢 Aditya Narendra
 @@center ![](/assets/Aditya.jpg) @@
 > Hello, my name is Aditya Narendra. I am fourth year doctoral student at Jagiellonian University, Krakow, Poland under the supervision of Prof. Agnieszka Pollo and Prof. Dainotti. I have been working with Prof. Dainotti since August 2020 and officially started my doctoral studies from January 2021. My work focuses on application of supervised machine learning techniques for obtaining the redshift of gamma-ray bursts (GRBs) and active-galactic nucleis (AGNs). We have also investigated classification of GRBs using unsupervised machine learning methods. Furthermore, we also investigated the reconstruction of GRB lightcurves using the technique of Gaussian Process, leading to a significant reduction in errors of GRB properties. Currently, we are working on developing a free-to-use webapp that can help the community obtain ML based redshift estimates of GRBs quickly.
-[Read Biagio's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Aditya_testimonial.pdf)
+[Read Aditya's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Aditya_testimonial.pdf)
 
 ## 🟢 Giada Bargiacchi
 @@center ![](/assets/Giada.jpg) @@
