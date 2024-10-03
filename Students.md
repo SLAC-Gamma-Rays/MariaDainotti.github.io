@@ -42,6 +42,11 @@ tags = ["syntax", "code"]
 > 
 [Read Delina's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/levine_testimonial.pdf)
 
+## 🟢 Ishan Jindal
+@@center ![](/assets/Ishan.jpg) @@
+> I am Ishan Jindal. I am a final year undergraduate student, pursuing my Bachelor’s degree in Physics at IIT Kharagpur. This is my first proper research work, and I am honored to be a co-author in ["An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution"](https://academic.oup.com/mnras/article/533/4/4023/7697178).
+[Read Ishan's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_Ishan.pdf)
+
 # Masters
 
 ## 🟢 Aleksander Łukasz Lenart
