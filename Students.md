@@ -52,6 +52,7 @@ tags = ["syntax", "code"]
 ## 🟢 Aleksander Łukasz Lenart
 @@center ![](/assets/Aleksander.jpg) @@ 
 > Hi, My name is Aleksander Lenart. I am currently (10.2024) a final-year Master's degree student at Jagiellonian University in Kraków. I began my collaboration with Maria in April 2020 as a high school student. I had an opportunity to contribute to the research at every stage of creating a paper, from data gathering through developing new statistical procedures to addressing the referee's comments. The long hours of hard work resulted in 10 peer-reviewed papers, 3 conference talks, and 3 posters.
+[Read Aleksander's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_AL.pdf)
 
 ## 🟢 Kamil Kalinowski
 @@center ![](/assets/kamil.jpg) @@
@@ -60,4 +61,4 @@ tags = ["syntax", "code"]
 
 ## 🟢 Aleksandra Rabęda
 > Hello! My name is Aleksandra Rabeda, and I am currently pursuing my Master's degree at Aarhus University. I started working with Maria Dainotti in 2020, where I contributed by developing Python scripts for the planning and execution of astronomical observations related to Gamma-Ray Bursts (GRBs). Most recently, our collaboration has led to the submission of a paper titled "GRB Redshift Estimation using Machine Learning and the Associated Web-App." This experience has been instrumental in advancing my skills in programming and astrophysical research.
-[Read Aleksandra's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_rabeda.pdf)
+[Read Aleksandra's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_rabeda.pdf)
