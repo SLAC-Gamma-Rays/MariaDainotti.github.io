@@ -32,7 +32,7 @@ tags = ["syntax", "code"]
 
 ## 🟢 Augusto C. Caligula do E. S. Pedreira
 @@center ![](/assets/Caligula.jpg) @@
-> Hi, my name is Augusto C. Caligula do E. S. Pedreira. I'm a PhD in Astrophysics by the Universidad Nacional Autónoma de México, whose specialty is the theoretical modeling of GRBs and their polarization. I've worked with Maria since 2022 and have a total of 5 accepted/published collaborations in academic journals of high repute, including the recently published [largest optical catalogue of GRBs with measured redshift](https://academic.oup.com/mnras/article/533/4/4023/7697178), and a [couple](https://iopscience.iop.org/article/10.3847/1538-4357/aca019) of [papers](https://arxiv.org/abs/2210.12904) in which I was the first author. 
+> Hi, my name is Augusto C. Caligula do E. S. Pedreira. I'm a PhD in Astrophysics by the Universidad Nacional Autónoma de México, whose specialty is the theoretical modeling of GRBs and their polarization. I've worked with Maria since 2022 and have a total of 5 accepted/published collaborations in academic journals of high repute, including the recently published [largest optical catalogue of GRBs with measured redshift](https://academic.oup.com/mnras/article/533/4/4023/7697178), and three papers in which I was the first author: [1](https://iopscience.iop.org/article/10.3847/1538-4357/aca019), [2](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae2232/7778277), and [3](https://www.mdpi.com/2075-4434/12/5/60). 
 [Read Caligula's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Caligula.pdf)
 
 # Undergraduates
