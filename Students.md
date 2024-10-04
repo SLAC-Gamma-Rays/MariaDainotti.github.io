@@ -57,3 +57,7 @@ tags = ["syntax", "code"]
 @@center ![](/assets/kamil.jpg) @@
 > Hi, I am Kamil Kalinowski and I have just completed Master's degree at Aarhus University. I've been working with Maria mostly during my bachelor's degree at Jagiellonian University. I have contributed to the study of [Fundamental Plane Correlations](https://iopscience.iop.org/article/10.3847/1538-4365/ac7c64) and to GRB observations from Kiso, with some of the data added to [the GRB catalogue](https://academic.oup.com/mnras/article/533/4/4023/7697178?login=false) that was recently published. 
 [Read Kamil's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Kamil_Testimonial.pdf)
+
+## 🟢 Aleksandra Rabęda
+> Hello! My name is Aleksandra Rabeda, and I am currently pursuing my Master's degree at Aarhus University. I started working with Maria Dainotti in 2020, where I contributed by developing Python scripts for the planning and execution of astronomical observations related to Gamma-Ray Bursts (GRBs). Most recently, our collaboration has led to the submission of a paper titled "GRB Redshift Estimation using Machine Learning and the Associated Web-App." This experience has been instrumental in advancing my skills in programming and astrophysical research.
+[Read Aleksandra's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_rabeda.pdf)
