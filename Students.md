@@ -48,7 +48,7 @@ tags = ["syntax", "code"]
 [Read Ishan's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_Ishan.pdf)
 
 ## 🟢 Leonardo Zambrano
-@@center ![](/assets/leo.heic) @@
+@@center ![](/assets/leo.jpg) @@
 > Hi! My name is Leonardo C. Zambrano Tapia and I am an undergraduate student at the University of Rochester. I worked with Dr. Dainotti as a highschooler during 2020,2021 and 2021. These 3 years were formative and essential in my academic and professional growth. I was able to be featured in two of her research papers, one as an acknowledgment and the other as a co-author. This experience has given me the tools to contribute to every new study I have been a part of while also having the priviledge of being part of an amazing community.
 [Read Leonardo's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Leo.pdf)
 
