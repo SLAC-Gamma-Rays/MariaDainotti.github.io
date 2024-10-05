@@ -47,7 +47,7 @@ tags = ["syntax", "code"]
 > I am Ishan Jindal. I am a final year undergraduate student, pursuing my Bachelor’s degree in Physics at IIT Kharagpur. This is my first proper research work, and I am honored to be a co-author in ["An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution"](https://academic.oup.com/mnras/article/533/4/4023/7697178).
 [Read Ishan's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_Ishan.pdf)
 
-## 🟢 Leonardo Zambrano
+## 🟢 Leonardo C. Zambrano Tapia
 @@center ![](/assets/leo.jpg) @@
 > Hi! My name is Leonardo C. Zambrano Tapia and I am an undergraduate student at the University of Rochester. I worked with Dr. Dainotti as a highschooler during 2020,2021 and 2021. These 3 years were formative and essential in my academic and professional growth. I was able to be featured in two of her research papers, one as an acknowledgment and the other as a co-author. This experience has given me the tools to contribute to every new study I have been a part of while also having the priviledge of being part of an amazing community.
 [Read Leonardo's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Leo.pdf)
