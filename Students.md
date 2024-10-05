@@ -39,7 +39,7 @@ tags = ["syntax", "code"]
 
 ## 🟢 Delina Levine
 @@center ![](/assets/delina.jpg) @@
-> 
+> Hi! My name is Delina Levine, and I'm currently a second-year graduate student at Caltech. I worked with Maria for two years as an undergraduate on multiple projects involving population studies of GRBs in multiple wavelengths. Over the course of our collaboration, we have published eight papers together, and presented our work at numerous conferences and workshops. Most recently, I contributed to the compilation of the largest catalog of optically-observed GRBs with redshift to date. 
 [Read Delina's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/levine_testimonial.pdf)
 
 ## 🟢 Ishan Jindal
