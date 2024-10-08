@@ -47,16 +47,6 @@ tags = ["syntax", "code"]
 > I am Ishan Jindal. I am a final year undergraduate student, pursuing my Bachelor’s degree in Physics at IIT Kharagpur. This is my first proper research work, and I am honored to be a co-author in ["An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution"](https://academic.oup.com/mnras/article/533/4/4023/7697178).
 [Read Ishan's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_Ishan.pdf)
 
-## 🟢 Leonardo C. Zambrano Tapia
-@@center ![](/assets/leo.jpg) @@
-> Hi! My name is Leonardo C. Zambrano Tapia and I am an undergraduate student at the University of Rochester. I worked with Dr. Dainotti as a highschooler during 2020,2021 and 2021. These 3 years were formative and essential in my academic and professional growth. I was able to be featured in two of her research papers, one as an acknowledgment and the other as a co-author. This experience has given me the tools to contribute to every new study I have been a part of while also having the priviledge of being part of an amazing community.
-[Read Leonardo's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Leo.pdf)
-
-## 🟢 Alexander R. Zambrano Tapia
-@@center ![](/assets/Alexander_Zambrano.png) @@
-> Hi! My name is Alexander R. Zambrano Tapia, a 2nd year undergrad at Johns Hopkins University. I began working with Dr. Dainotti in the summer of 2020 with her research on GRB, as I helped in data collection. I was featured in two of her research papers, one as an acknowledgment and the other as a co-author. This experience has shown me more about the scientific research community and motivated me to continue research even through my college life.
-[Read Alexander's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_AlexanderZambrano.pdf)
-
 # Masters
 
 ## 🟢 Aleksander Łukasz Lenart
@@ -72,3 +62,15 @@ tags = ["syntax", "code"]
 ## 🟢 Aleksandra Rabęda
 > Hello! My name is Aleksandra Rabeda, and I am currently pursuing my Master's degree at Aarhus University. I started working with Maria Dainotti in 2020, where I contributed by developing Python scripts for the planning and execution of astronomical observations related to Gamma-Ray Bursts (GRBs). Most recently, our collaboration has led to the submission of a paper titled "GRB Redshift Estimation using Machine Learning and the Associated Web-App." This experience has been instrumental in advancing my skills in programming and astrophysical research.
 [Read Aleksandra's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_rabeda.pdf)
+
+# High School students
+
+## 🟢 Leonardo C. Zambrano Tapia
+@@center ![](/assets/leo.jpg) @@
+> Hi! My name is Leonardo C. Zambrano Tapia and I am an undergraduate student at the University of Rochester. I worked with Dr. Dainotti as a highschooler during 2020,2021 and 2021. These 3 years were formative and essential in my academic and professional growth. I was able to be featured in two of her research papers, one as an acknowledgment and the other as a co-author. This experience has given me the tools to contribute to every new study I have been a part of while also having the priviledge of being part of an amazing community.
+[Read Leonardo's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Leo.pdf)
+
+## 🟢 Alexander R. Zambrano Tapia
+@@center ![](/assets/Alexander_Zambrano.png) @@
+> Hi! My name is Alexander R. Zambrano Tapia, a 2nd year undergrad at Johns Hopkins University. I began working with Dr. Dainotti in the summer of 2020 with her research on GRB, as I helped in data collection. I was featured in two of her research papers, one as an acknowledgment and the other as a co-author. This experience has shown me more about the scientific research community and motivated me to continue research even through my college life.
+[Read Alexander's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_AlexanderZambrano.pdf)
