@@ -27,7 +27,7 @@ tags = ["syntax", "code"]
 ## 🟢 Ridha Fathima Mohideen Malik
 @@center ![](/assets/ridha.jpg) @@
 > I am Ridha Fathima Mohideen Malik from India. I recently graduated from the Erasmus Mundus Master's programme in Astrophysics and Space Science. I have been collaborating with Professor Maria Dainotti since the summer of 2022. As a fresh
-graduate in Physics, she provided me the opportunity to work on a large-scale project to build a catalogue of gamma-ray burst (GRB) optical afterglow lightcurves.
+graduate in Physics, she provided me the opportunity to work on a large-scale project to build a catalogue of gamma-ray burst (GRB) optical afterglow lightcurves
 [Read Ridha testimonial about their working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_Ridha.pdf)
 
 # Project Students
