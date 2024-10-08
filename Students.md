@@ -68,6 +68,11 @@ tags = ["syntax", "code"]
 > Hello! My name is Aleksandra Rabeda, and I am currently pursuing my Master's degree at Aarhus University. I started working with Maria Dainotti in 2020, where I contributed by developing Python scripts for the planning and execution of astronomical observations related to Gamma-Ray Bursts (GRBs). Most recently, our collaboration has led to the submission of a paper titled "GRB Redshift Estimation using Machine Learning and the Associated Web-App." This experience has been instrumental in advancing my skills in programming and astrophysical research.
 [Read Aleksandra's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_rabeda.pdf)
 
+## 🟢 Spencer Gibson
+@@center ![](/assets/spencer.jpeg) @@
+> Hello, I am Spencer Gibson. I recently graduated with a master’s degree in Biomedical Engineering from Carnegie Mellon University. I interned under Professor Dainotti at SLAC in 2020 and 2021. Together, we published three papers related to estimating the redshift of gamma-ray loud AGNs with machine learning. My current research focuses on computational biology including Bayesian statistics and its applications to machine learning and to estimating gene expression across cell-types in the human body. I am also working to prove theoretical runtime and accuracy bounds on the seed-chain-extend aligner under realistic assumptions.
+[Read Spencer's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Spencer_Gibson_Testimonial.pdf)
+
 # High School students
 
 ## 🟢 Leonardo C. Zambrano Tapia
