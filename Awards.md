@@ -15,6 +15,7 @@
 
 >🟢 I received the International Principess Sichelgaita Prize on the 4th of June 2018. It is a prestigious international award that enjoys the patronage of the Chamber of Deputies, the Senate, and the Presidency of the Italian Republic. I received the medal from the Presidency of the Italian Republic. The Prize promotes women from the South of Italy who have distinguished themselves and have become role models in their category at national and international levels.
 
+@@center ![](/assets/fellow_MarieCurie.jpg) @@ 
 >🟢 Named Marie Curie’ Fellow of the week 26th of April 2019 from the Marie Curie Programme Scheme. The award has been notified on 29th of October 2018.
 
 >🟢 Distinguished Fellow of the City of Cava dei Tirreni, home town of the fellow. This award is given to people who have distinguished in any discipline for their contribution and currently are abroad. Award will be given the 15th of December by the major of the city and by the President of the Rotari Club of the same city. This prize enjoys the patronage of the Rotari Club.
