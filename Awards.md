@@ -30,6 +30,7 @@
 >- X-Ray Fundamental Plane of the Platinum Sample, the Kilonovae, and the SNe Ib/c Associated with GRBs,[ApJ 2020](https://tinyurl.com/4kfvsttz).
 >- On the Investigation of the Closure Relations for Gamma-Ray Bursts Observed by Swift in the Post-plateau Phase and the GRB Fundamental Plane, [ApJ 2020](https://tinyurl.com/vkfyksha).
 >- The study of a fundamental plane for X-ray afterglows, [2017 by Stanford](https://tinyurl.com/ux2yhpyu).
+>- "From Salerno to Stanford chasing the GRBs", [MEDIA INAF press release](https://www.media.inaf.it/2016/06/22/salerno-stanford-dainotti/).
 >- A fundamental plane for long gamma-ray bursts with X-ray plateaus, 2016, [ApJL by AAS](https://tinyurl.com/6pv7c33d) invited press briefing.
 >- The Italian TV news [channels in 2018](https://tinyurl.com/4t6xabz3) highlighted Women in Science stories.
 >- Fulbright interview, on being a [Fulbright Fellow](https://tinyurl.com/7ssjmwfa).

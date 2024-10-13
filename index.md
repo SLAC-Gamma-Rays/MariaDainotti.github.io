@@ -15,8 +15,6 @@
 >- The most complete catalog of optical Gamma-ray bursts with redshift
 >- Gamma-ray burst astrophysics and closure relations}
 
-
-
 > I am interested in high-energy astrophysics phenomena in gamma-ray bursts (GRBs), selection bias, statistical methods for astronomical data, and active galactic nuclei.
 
 >  I am the discoverer of the so-called Dainotti relations in GRB afterglows between the luminosity at the end of the plateau phase, La, and its rest frame duration, Ta, and in GRB prompt-afterglow between La and the peak luminosity of the prompt emission, Lpeak. The first relation indicates that the more luminous the plateau phase is, the shorter its duration, i.e., the more powerful the phenomenon is, the quicker it consumes its energy. The second relation shows that the prompt luminosity is proportional to the luminosity at the end of the plateau phase. An extension of these two relations led to the discovery of a fundamental plane for GRB afterglows. I have since applied these relations in combination with supernovae Type Ia (SNe Ia) and cosmic microwave background radiation (CMB) as cosmological tools. 
