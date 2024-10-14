@@ -24,11 +24,6 @@ tags = ["syntax", "code"]
 > Hello, my name is Biagio De Simone. I am a 3rd year Ph.D. candidate from the University of Salerno. I've been working with Maria since March 2020 on the Gamma-Ray Bursts astrophysics and cosmology. Thanks to this collaboration, I published 5 papers as Maria's co-author, in particular I investigated [the Hubble constant tension through Supernovae Ia](https://iopscience.iop.org/article/10.3847/1538-4357/abeb73) and I contributed to build [the most complete catalogue of optical GRBs with redshift to date](https://academic.oup.com/mnras/article/533/4/4023/7697178).
 [Read Biagio's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Biagio_letter.pdf)
 
-## 🟢 Ridha Fathima Mohideen Malik
-@@center ![](/assets/ridha.jpg) @@
-> I am Ridha Fathima Mohideen Malik from India. I recently graduated from the Erasmus Mundus Master's programme in Astrophysics and Space Science. I have been collaborating with Professor Maria Dainotti since the summer of 2022. As a fresh graduate in Physics, she provided me the opportunity to work on a large-scale project to build a catalogue of gamma-ray burst (GRB) optical afterglow lightcurves.
-[Read Ridha testimonial about their working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_Ridha.pdf)
-
 # Project Students
 
 ## 🟢 Aditi Manchanda
@@ -58,6 +53,11 @@ tags = ["syntax", "code"]
 @@center ![](/assets/Aleksander.jpg) @@ 
 > Hi, My name is Aleksander Lenart. I am currently (10.2024) a final-year Master's degree student at Jagiellonian University in Kraków. I began my collaboration with Maria in April 2020 as a high school student. I had an opportunity to contribute to the research at every stage of creating a paper, from data gathering through developing new statistical procedures to addressing the referee's comments. The long hours of hard work resulted in 10 peer-reviewed papers, 3 conference talks, and 3 posters.
 [Read Aleksander's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_AL.pdf)
+
+## 🟢 Ridha Fathima Mohideen Malik
+@@center ![](/assets/ridha.jpg) @@
+> I am Ridha Fathima Mohideen Malik from India. I recently graduated from the Erasmus Mundus Master's programme in Astrophysics and Space Science. I have been collaborating with Professor Maria Dainotti since the summer of 2022. As a fresh graduate in Physics, she provided me the opportunity to work on a large-scale project to build a catalogue of gamma-ray burst (GRB) optical afterglow lightcurves.
+[Read Ridha testimonial about their working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_Ridha.pdf)
 
 ## 🟢 Kamil Kalinowski
 @@center ![](/assets/kamil.jpg) @@
