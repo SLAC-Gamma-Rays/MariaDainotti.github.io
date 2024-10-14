@@ -73,6 +73,11 @@ tags = ["syntax", "code"]
 > Hello, I am Spencer Gibson. I recently graduated with a master’s degree in Biomedical Engineering from Carnegie Mellon University. I interned under Professor Dainotti at SLAC in 2020 and 2021. Together, we published three papers related to estimating the redshift of gamma-ray loud AGNs with machine learning. My current research focuses on computational biology including Bayesian statistics and its applications to machine learning and to estimating gene expression across cell-types in the human body. I am also working to prove theoretical runtime and accuracy bounds on the seed-chain-extend aligner under realistic assumptions.
 [Read Spencer's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Spencer_Gibson_Testimonial.pdf)
 
+## 🟢 Anish Kalsi
+@@center ![](/assets/Anish.jpg) @@
+> Greetings! My name is Anish Kalsi, and I am currently pursuing a master's in Astrophysics and Cosmology at the University of Padova, Italy. I had the privilege of working with Dr. Maria Dainotti's group for a year on the machine learning project for classifying GRBs using UVOT and XRT data from the SWIFT satellite.
+[Read Anish's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anish_Testimonial.pdf)
+
 # High School students
 
 ## 🟢 Leonardo C. Zambrano Tapia
