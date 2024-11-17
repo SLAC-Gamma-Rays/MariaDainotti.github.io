@@ -78,6 +78,10 @@ tags = ["syntax", "code"]
 > Greetings! My name is Anish Kalsi, and I am currently pursuing a master's in Astrophysics and Cosmology at the University of Padova, Italy. I had the privilege of working with Dr. Maria Dainotti's group for a year on the machine learning project for classifying GRBs using UVOT and XRT data from the SWIFT satellite.
 [Read Anish's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anish_Testimonial.pdf)
 
+## 🟢 Upasana Das
+@@center ![](/assets/Upasana.jpeg) @@
+> Hello! I am Upasana Das, currently a final-year Integrated M.Sc. student majoring in Physics from the School of Physical Sciences at the National Institute of Science Education and Research (NISER), India. I worked with Maria from Jan 2023 to May 2024 on the paper "An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution". It's my first paper where I was featured as a co-author, and it feels so rewarding to have been part of such a collaboration and contributed to something significant. I owe all of it to Maria and can't thank her enough for all her guidance. [Read Upasana's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Upasana_Testimonial.pdf)
+
 # High School students
 
 ## 🟢 Leonardo C. Zambrano Tapia
