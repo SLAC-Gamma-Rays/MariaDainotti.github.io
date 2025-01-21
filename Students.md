@@ -98,3 +98,7 @@ tags = ["syntax", "code"]
 @@center ![](/assets/Alexander_Zambrano.png) @@
 > Hi! My name is Alexander R. Zambrano Tapia, a 2nd year undergrad at Johns Hopkins University. I began working with Dr. Dainotti in the summer of 2020 with her research on GRB, as I helped in data collection. I was featured in two of her research papers, one as an acknowledgment and the other as a co-author. This experience has shown me more about the scientific research community and motivated me to continue research even through my college life.
 [Read Alexander's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_AlexanderZambrano.pdf)
+
+## 🟢 Logan Chan
+@@center ![](/assets/0105_Chan_Logan_01.jpg) @@
+> Hi! My name is Logan Cham. I worked with Dr. Maria Dainotti primarily during the summer of 2023 on Part I of the GRB Catalogue. The fact that I was still a high schooler shows Dainotti's motive to help the younger generation earlier on. She was always kind and patient, while simultaneously keeping me on track with my tasks. It was also easy to ask for help and clarification when needed. Dainotti reinforced the confidence within me to do work well.
