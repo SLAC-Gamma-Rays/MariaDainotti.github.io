@@ -94,8 +94,13 @@ tags = ["syntax", "code"]
 
 ## 🟢 Kinshuk Jarial
 @@center ![](/assets/Kinshuk.jpeg) @@ 
-> I am Kinshuk Jarial.  
+> Hi, I am Kinshuk Jarial. I've been working with Maria since December 2024 and I've had the possibility to learn many new things in the astrophysics and cosmology field.  
 [Read Kinshuk's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Kinshuk_Testimonial.pdf)
+
+## 🟢 Mudit Parakh
+@@center ![](/assets/Mudit.jpeg) @@ 
+> Hello, I am Mudit Parakh, a second-year BS-MS student in Natural Sciences at the Indian Institute of Science Education and Research, Bhopal. I am grateful to Dr. Maria Giovanna Dainotti for selecting me for the project "A New Master Supernovae Ia Sample and the Investigation of the H₀ Tension." Through this project, I have gained valuable insights into cosmology and the data analysis techniques involved in our research. Additionally, I have learned the intricacies of writing research papers and the key aspects to consider during the process. This experience has been incredibly enriching and has provided me with greater clarity about my future career path. Dr. Maria is an exceptional researcher and mentor who has guided me tremendously and imparted crucial knowledge essential for a career in research. She has also provided me with exciting research opportunities, and I look forward to collaborating with her again in the future.
+[Read Mudit's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter_Mudit.pdf)
 
 # High School students
 
