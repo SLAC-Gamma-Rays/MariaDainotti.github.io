@@ -102,6 +102,12 @@ tags = ["syntax", "code"]
 > Hello, I am Mudit Parakh, a second-year BS-MS student in Natural Sciences at the Indian Institute of Science Education and Research, Bhopal. I am grateful to Dr. Maria Giovanna Dainotti for selecting me for the project "A New Master Supernovae Ia Sample and the Investigation of the H₀ Tension." Through this project, I have gained valuable insights into cosmology and the data analysis techniques involved in our research. Additionally, I have learned the intricacies of writing research papers and the key aspects to consider during the process. This experience has been incredibly enriching and has provided me with greater clarity about my future career path. Dr. Maria is an exceptional researcher and mentor who has guided me tremendously and imparted crucial knowledge essential for a career in research. She has also provided me with exciting research opportunities, and I look forward to collaborating with her again in the future.
 [Read Mudit's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter_Mudit.pdf)
 
+## 🟢 Rafid Hassan Dejrah
+@@center ![](/assets/Rafid_pic.jpeg) @@ 
+> Hello, I am Rafid H. Dejrah, a researcher in theoretical cosmology. I first connected with Maria at the beginning of autumn 2024 and I received an invaluable guidance through the research world.
+[Read Mudit's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter_Rafid.pdf)
+
+
 # High School students
 
 ## 🟢 Leonardo C. Zambrano Tapia
