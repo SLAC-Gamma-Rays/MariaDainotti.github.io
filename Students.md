@@ -105,8 +105,17 @@ tags = ["syntax", "code"]
 ## 🟢 Rafid Hassan Dejrah
 @@center ![](/assets/Rafid_pic.jpeg) @@ 
 > Hello, I am Rafid H. Dejrah, a researcher in theoretical cosmology. I first connected with Maria at the beginning of autumn 2024 and I received an invaluable guidance through the research world.
-[Read Mudit's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter_Rafid.pdf)
+[Read Rafid's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter_Rafid.pdf)
 
+## 🟢 Rohit Mandal
+@@center ![](/assets/Rohit.jpeg) @@ 
+> Hello, I am Rohit Mandal, a 2nd-year MS student at the Indian Institute of Space Science and Technology, Kerala, India. I had the privilege of working with Dr. Maria Giovanna Dainotti on a project focused on Type Ia Supernova Cosmology.
+[Read Rohit's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/RohitMandal.pdf)
+
+## 🟢  Tasneem Jareen
+@@center ![](/assets/Tasneem.jpg) @@ 
+> Hello, I am Tasneem Jareen. I began working as a Research Intern with Dr. Maria Giovanna Dainotti on a research project studying the Hubble constant tension in different catalogs of Type Ia Supernovae.
+[Read Tasneem's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Maria Dainotti - Testimonial - Tasneem Jareen.pdf)
 
 # High School students
 
