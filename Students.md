@@ -87,6 +87,11 @@ tags = ["syntax", "code"]
 @@center ![](/assets/Upasana.jpeg) @@
 > Hello! I am Upasana Das, currently a final-year Integrated M.Sc. student majoring in Physics from the School of Physical Sciences at the National Institute of Science Education and Research (NISER), India. I worked with Maria from Jan 2023 to May 2024 on the paper "An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution". It's my first paper where I was featured as a co-author, and it feels so rewarding to have been part of such a collaboration and contributed to something significant. I owe all of it to Maria and can't thank her enough for all her guidance. [Read Upasana's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Upasana_Testimonial.pdf)
 
+## 🟢 Anargha Mondal
+@@center ![](/assets/Anargha.jpeg) @@ 
+> Hi, My name is Aleksander Lenart. I am currently (10.2024) a final-year Master's degree student at Jagiellonian University in Kraków. I began my collaboration with Maria in April 2020 as a high school student. I had an opportunity to contribute to the research at every stage of creating a paper, from data gathering through developing new statistical procedures to addressing the referee's comments. The long hours of hard work resulted in 10 peer-reviewed papers, 3 conference talks, and 3 posters.
+[Read Anargha's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anargha_Testimonial.pdf)
+
 # High School students
 
 ## 🟢 Leonardo C. Zambrano Tapia
