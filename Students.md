@@ -89,8 +89,13 @@ tags = ["syntax", "code"]
 
 ## 🟢 Anargha Mondal
 @@center ![](/assets/Anargha.jpeg) @@ 
-> Hi, My name is Aleksander Lenart. I am currently (10.2024) a final-year Master's degree student at Jagiellonian University in Kraków. I began my collaboration with Maria in April 2020 as a high school student. I had an opportunity to contribute to the research at every stage of creating a paper, from data gathering through developing new statistical procedures to addressing the referee's comments. The long hours of hard work resulted in 10 peer-reviewed papers, 3 conference talks, and 3 posters.
+> I am Anargha Mondal, a third-year underraduate student at the Indian Institute of Science Education and Research Pune, majoring in Physics. I am broadly interested in the connections between fundamental physics and the large-scale structure of the universe. I collborated with Dr. Maria Dainotti to gain a solid understanding of how Type Ia Supernovae can be used as observational probes to investigate the Hubble Tension. It was a part of my summer project in 2024, and for this I spent roughly 3 weeks at the National Astronomical Observatory of Japan, Mitaka, Tokyo.
 [Read Anargha's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anargha_Testimonial.pdf)
+
+## 🟢 Kinshuk Jarial
+@@center ![](/assets/Kinshuk.jpeg) @@ 
+> I am Kinshuk Jarial.  
+[Read Kinshuk's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Kinshuk_Testimonial.pdf)
 
 # High School students
 
