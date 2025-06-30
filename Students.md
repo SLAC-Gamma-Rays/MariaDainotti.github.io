@@ -52,6 +52,12 @@ tags = ["syntax", "code"]
 > I am Ishan Jindal. I am a final year undergraduate student, pursuing my Bachelor’s degree in Physics at IIT Kharagpur. This is my first proper research work, and I am honored to be a co-author in ["An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution"](https://academic.oup.com/mnras/article/533/4/4023/7697178).
 [Read Ishan's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/testimonial_Ishan.pdf)
 
+## 🟢 Anjani Deepu
+@@center ![](/assets/Anjani.png) @@
+> I am Anjali Deepu, a second-year undergraduate student in the Department of Ocean Engineering and Naval Architecture at the Indian Institute of Technology Kharagpur. I had the distinct privilege of working under the guidance of Prof. Maria Dainotti as a co-author of the research paper titled ["Gamma-Ray Burst Light
+Curve Reconstruction: A Comparative Machine and Deep Learning Analysis"](https://arxiv.org/abs/2412.20091).
+[Read Anjani's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anjani_letter.pdf)
+
 # Masters
 
 ## 🟢 Aleksander Łukasz Lenart
