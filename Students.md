@@ -57,6 +57,11 @@ tags = ["syntax", "code"]
 > I am Anjali Deepu, a second-year undergraduate student in the Department of Ocean Engineering and Naval Architecture at the Indian Institute of Technology Kharagpur. I had the distinct privilege of working under the guidance of Prof. Maria Dainotti as a co-author of the research paper titled ["Gamma-Ray Burst Light Curve Reconstruction: A Comparative Machine and Deep Learning Analysis"](https://arxiv.org/abs/2412.20091).
 [Read Anjali's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anjani_letter.pdf)
 
+## 🟢 Anshul Kaushal
+@@center ![](/assets/Anshul.jpg) @@
+> My name is Anshul Kaushal, and I am currently a senior undergraduate student at Panjab University, India, pursuing a degree in Computer Science and Engineering. I have worked with Prof. Maria Dainotti at the intersection of Astrophysics and Computer Science, focusing on the reconstruction of Gamma-Ray Bursts.
+[Read Anshul's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anshul_testimonial.pdf)
+
 # Masters
 
 ## 🟢 Aleksander Łukasz Lenart
