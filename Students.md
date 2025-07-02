@@ -31,7 +31,7 @@ tags = ["syntax", "code"]
 
 ## 🟢 Ayush Garg
 @@center ![](/assets/AyushGarg.jpeg) @@
-> ...
+> Hi, I’m Ayush Garg, a PhD student at IIT Indore, India, working under the guidance of Dr. Amit Shukla. My journey with Prof. Maria Giovanna Dainotti began in late 2024, marking a significant turning point in both my academic and personal growth.
 [Read Ayush's letter about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Ayush_Garg_testimonial.pdf)
 
 # Project Students
