@@ -29,6 +29,11 @@ tags = ["syntax", "code"]
 > Hi, I am Sachin Venkatesh. I am a Graduate Student at the Georgia Tech Physics. I worked with Maria on a GRB properties classification project that was published in the paper ["GRB optical and X-ray plateau properties classifier using unsupervised machine learning"](https://academic.oup.com/mnras/article/525/4/5204/7257589).
 [Read Sachin's letter about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Sachin_letter.pdf)
 
+## 🟢 Ayush Garg
+@@center ![](/assets/AyushGarg.jpeg) @@
+> ...
+[Read Ayush's letter about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Ayush_Garg_testimonial.pdf)
+
 # Project Students
 
 ## 🟢 Aditi Manchanda
