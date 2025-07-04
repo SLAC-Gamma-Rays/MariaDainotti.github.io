@@ -5,7 +5,7 @@ tags = ["syntax", "code"]
 +++
 
 # Selected Students
-> I supervised more than 140 students during my career. I here show a Selection of my students due to page limits. In case you want to contact me, please use the information reported in the [Contact](https://slac-gamma-rays.github.io/MariaDainotti.github.io/Contact/) page.
+> I supervised more than 140 students during my career. I here show a Selection of my students starting from September 2024. In case you want to contact me, please use the information reported in the [Contact](https://slac-gamma-rays.github.io/MariaDainotti.github.io/Contact/) page.
 
 # Ph.D. Students
 
@@ -66,6 +66,11 @@ tags = ["syntax", "code"]
 @@center ![](/assets/Anshul.jpg) @@
 > My name is Anshul Kaushal, and I am currently a senior undergraduate student at Panjab University, India, pursuing a degree in Computer Science and Engineering. I have worked with Prof. Maria Dainotti at the intersection of Astrophysics and Computer Science, focusing on the reconstruction of Gamma-Ray Bursts.
 [Read Anshul's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anshul_testimonial.pdf)
+
+## 🟢 John Felix
+@@center ![](/assets/JohnFelix.jpg) @@
+> I am John Felix, a second year undergraduate student of the department of Industrial and Systems Engineering at IIT Kharagpur. I had the privilege to co-author the research paper titled “Gamma-Ray Burst Light Curve Reconstruction: A Comparative Machine and Deep Learning Analysis” under the guidance of Professor Maria Dainotti from 9th December 2024 to 30th May 2025.
+[Read John's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/JohnFelix_experienceletter.pdf)
 
 # Masters
 
@@ -130,7 +135,13 @@ tags = ["syntax", "code"]
 ## 🟢  Tasneem Jareen
 @@center ![](/assets/Tasneem.jpg) @@ 
 > Hello, I am Tasneem Jareen. I began working as a Research Intern with Dr. Maria Giovanna Dainotti on a research project studying the Hubble constant tension in different catalogs of Type Ia Supernovae.
-[Read Tasneem's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Maria Dainotti - Testimonial - Tasneem Jareen.pdf)
+[Read Tasneem's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/MariaDainotti-Testimonial-TasneemJareen.pdf)
+
+## 🟢 Jabir V M
+@@center ![](/assets/JabirVM.jpeg) @@  
+> My self Jabir V M. I completed my master’s in physics from Indira Gandhi National Tribal University (IGNTU), Madhya Pradesh. At present, I am working with
+Dr. Maria on supernova cosmology to investigate the Hublle tension problem.
+[Read Tasneem's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Jabir_Testimonial.pdf)
 
 # High School students
 
