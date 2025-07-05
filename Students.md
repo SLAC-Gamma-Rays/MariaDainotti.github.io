@@ -72,6 +72,11 @@ tags = ["syntax", "code"]
 > I am John Felix, a second year undergraduate student of the department of Industrial and Systems Engineering at IIT Kharagpur. I had the privilege to co-author the research paper titled “Gamma-Ray Burst Light Curve Reconstruction: A Comparative Machine and Deep Learning Analysis” under the guidance of Professor Maria Dainotti from 9th December 2024 to 30th May 2025.
 [Read John's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/JohnFelix_experienceletter.pdf)
 
+## 🟢 Sama Khanjani
+@@center ![](/assets/Sama.jpg) @@
+> I am a passionate researcher and aspiring master's student in computational quantum chemistry and nano-chemistry. Due to educational barriers in my country that prevented me from pursuing chemistry directly, I completed my degree in pharmaceutical sciences while independently mastering quantum chemistry, molecular modeling, and Python for chemical simulations. My perseverance led me to research collaborations, including cosmological data analysis with Professor Maria Dainotti, which further strengthened my computational skills and deepened my fascination with observing and analyzing the behavior of atoms and matter at macroscopic scales that always fascinates me!! I collaborated with Professor Maria on a cosmological research project studying Type Ia supernovae to address the Hubble tension.
+[Read John's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter-Sama-Khanjani.pdf)
+
 # Masters
 
 ## 🟢 Aleksander Łukasz Lenart
