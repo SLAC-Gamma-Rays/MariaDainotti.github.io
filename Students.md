@@ -75,7 +75,7 @@ tags = ["syntax", "code"]
 ## 🟢 Sama Khanjani
 @@center ![](/assets/Sama.jpg) @@
 > I am a passionate researcher and aspiring master's student in computational quantum chemistry and nano-chemistry. Due to educational barriers in my country that prevented me from pursuing chemistry directly, I completed my degree in pharmaceutical sciences while independently mastering quantum chemistry, molecular modeling, and Python for chemical simulations. My perseverance led me to research collaborations, including cosmological data analysis with Professor Maria Dainotti, which further strengthened my computational skills and deepened my fascination with observing and analyzing the behavior of atoms and matter at macroscopic scales that always fascinates me!! I collaborated with Professor Maria on a cosmological research project studying Type Ia supernovae to address the Hubble tension.
-[Read John's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter-Sama-Khanjani.pdf)
+[Read Sama's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter-Sama-Khanjani.pdf)
 
 # Masters
 
