@@ -77,6 +77,11 @@ tags = ["syntax", "code"]
 > I am a passionate researcher and aspiring master's student in computational quantum chemistry and nano-chemistry. Due to educational barriers in my country that prevented me from pursuing chemistry directly, I completed my degree in pharmaceutical sciences while independently mastering quantum chemistry, molecular modeling, and Python for chemical simulations. My perseverance led me to research collaborations, including cosmological data analysis with Professor Maria Dainotti, which further strengthened my computational skills and deepened my fascination with observing and analyzing the behavior of atoms and matter at macroscopic scales that always fascinates me!! I collaborated with Professor Maria on a cosmological research project studying Type Ia supernovae to address the Hubble tension.
 [Read Sama's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter-Sama-Khanjani.pdf)
 
+## 🟢 Wajih Jamal
+@@center ![](/assets/WajihJamal.jpeg) @@  
+> Hi, I am Wajih Jamal. I worked together with Prof. Dainotti on the optical GRB catalogue project while completing my Bachelor studies.
+[Read Wajih's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_WajihJamal.pdf)
+
 # Masters
 
 ## 🟢 Aleksander Łukasz Lenart
@@ -140,13 +145,13 @@ tags = ["syntax", "code"]
 ## 🟢  Tasneem Jareen
 @@center ![](/assets/Tasneem.jpg) @@ 
 > Hello, I am Tasneem Jareen. I began working as a Research Intern with Dr. Maria Giovanna Dainotti on a research project studying the Hubble constant tension in different catalogs of Type Ia Supernovae.
-[Read Tasneem's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/MariaDainotti-Testimonial-TasneemJareen.pdf)
+[Read Tasneem's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/MariaDainotti-Testimonial-TasneemJareen.pdf)
 
 ## 🟢 Jabir V M
 @@center ![](/assets/JabirVM.jpeg) @@  
 > My self Jabir V M. I completed my master’s in physics from Indira Gandhi National Tribal University (IGNTU), Madhya Pradesh. At present, I am working with
 Dr. Maria on supernova cosmology to investigate the Hublle tension problem.
-[Read Tasneem's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Jabir_Testimonial.pdf)
+[Read Jabir's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Jabir_Testimonial.pdf)
 
 # High School students
 
