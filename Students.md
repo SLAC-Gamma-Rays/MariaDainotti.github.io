@@ -79,7 +79,7 @@ tags = ["syntax", "code"]
 
 ## 🟢 Wajih Jamal
 @@center ![](/assets/WajihJamal.jpeg) @@  
-> Hi, I am Wajih Jamal. I worked together with Prof. Dainotti on the optical GRB catalogue project while completing my Bachelor studies.
+> Hello, my name is Wajih Jamal, I graduated with a degree in Physics from the Lebanese International University (LIU) and work as a project manager in technology localization. My experience with Dr. Dainotti began in 2023 when she gave me the opportunity to contribute to the largest catalogue of optical GRBs, and has resulted in my first publication as her co-author thanks to her guidance.
 [Read Wajih's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_WajihJamal.pdf)
 
 # Masters
