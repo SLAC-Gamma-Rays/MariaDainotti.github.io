@@ -2,10 +2,11 @@
 @def title=" Lectures"
 @def tags = ["syntax", "code"]
 
-# 🪟️ Gamma-ray Astrophysics in the Multi-messenger Context
+# 🪟️ Gamma-ray Astrophysics in the Multi-messenger Context (COMPLETED)
 ## [🟢 Prof. Elisabetta Bissaldi](http://web2.ba.infn.it/~bissaldi//)
 @@center ![](/assets/Bissaldi.jpg )  @@ 
 
+June 2023
 [Zoom link](https://us02web.zoom.us/j/83555657710)   PWD: 726021
 
 
