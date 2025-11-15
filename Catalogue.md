@@ -22,5 +22,3 @@ We are happy to announce the publication of the most complete data collection of
 
 #### GRB/UAI - Gamma ray Burst section of Unione Astrofili Italiani
 * [Read the Press Release by Unione Astrofili Italiani](https://www.uai.it/sito/news/uai-ricerca/lenorme-catalogo-di-lampi-gamma-rivaleggia-con-il-catalogo-messier-vecchio-di-250-anni/)
-
-#### UNDER CONSTRUCTION
