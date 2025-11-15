@@ -155,7 +155,7 @@ Dr. Maria on supernova cosmology to investigate the Hublle tension problem.
 
 ## 🟢 Khushi Gupta
 @@center ![](/assets/kushi.png) @@  
-> Hi, I am Khushi Gupta, Master of Science in Physics from University of Delhi. I've worked with Prof Maria Dainotti on the reconstruction of Gamma Ray Burst lightcurves through Machine Learning methods.
+> Hi, I am Khushi Gupta. I recently completed my Bachelors in Computer Science, from AKTU University, India. I've worked with Prof Maria Dainotti on the reconstruction of Gamma Ray Burst lightcurves through Machine Learning methods.
 [Read Kushi's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Appreciation-Letter-Kushi.pdf)
 
 # High School students
