@@ -6,8 +6,7 @@
 ## [🟢 Prof. Elisabetta Bissaldi](http://web2.ba.infn.it/~bissaldi//)
 @@center ![](/assets/Bissaldi.jpg )  @@ 
 
-June 2023
-[Zoom link](https://us02web.zoom.us/j/83555657710)   PWD: 726021
+June 2023. [Zoom link](https://us02web.zoom.us/j/83555657710)   PWD: 726021
 
 
 ~~~
