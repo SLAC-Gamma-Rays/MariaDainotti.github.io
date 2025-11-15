@@ -36,9 +36,9 @@ tags = ["syntax", "code"]
 
 # Project Students
 
-## 🟢 Aditi Manchanda
+<!-- ## 🟢 Aditi Manchanda
 @@center ![](/assets/Aditi.jpeg) @@
-> Hello, I am Aditi Manchanda and I have completed my Master's degree in Physics at the Indian Institute of Technology Hyderabad (IITH). My primary interest lies in the intersection of artificial intelligence and astrophysics, specifically in applying ML techniques to analyze astrophysical data. Currently, I am working with Maria on the stochastic reconstruction of gamma-ray burst (GRB) light curves using machine-learning methodologies.
+> Hello, I am Aditi Manchanda and I have completed my Master's degree in Physics at the Indian Institute of Technology Hyderabad (IITH). My primary interest lies in the intersection of artificial intelligence and astrophysics, specifically in applying ML techniques to analyze astrophysical data. Currently, I am working with Maria on the stochastic reconstruction of gamma-ray burst (GRB) light curves using machine-learning methodologies. -->
 
 ## 🟢 Augusto C. Caligula do E. S. Pedreira
 @@center ![](/assets/Caligula.jpg) @@
