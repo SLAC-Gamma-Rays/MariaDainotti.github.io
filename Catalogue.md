@@ -8,7 +8,7 @@ tags = ["syntax", "code"]
 
 ## 🟢 Data release of 535 Gamma-ray Bursts and colour evolution
 @@center ![](/assets/grbLC.png) @@
-We are happy to announce the publication of the most complete data collection of Gamma-ray Bursts observed in the optical wavelengths with a measured value of the redshift. Thanks to a worldwide network of professors, researchers, collaborators, observatories, and students, 535 light curves are available for the scientific community to use. A user-friendly web app based on Streamlit has been built to allow a rapid and comfortable light curve inspection, colour evolution analysis, and download. The whole package of Python functions useful to the optical catalogue is called grbLC.
+We are happy to announce the publication of the most complete data collection of Gamma-ray Bursts observed in the optical wavelengths with a measured value of the redshift. Thanks to a worldwide network of professors, researchers, collaborators, observatories, and students, 535 light curves are available for the scientific community to use. A user-friendly web app based on Streamlit has been built to allow a rapid and comfortable light curve inspection, colour evolution analysis, and download of useful data. The whole package of Python functions useful to the optical catalogue is called grbLC.
 
 ### Related links:
 
