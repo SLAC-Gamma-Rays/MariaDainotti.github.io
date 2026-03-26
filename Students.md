@@ -64,7 +64,7 @@ tags = ["syntax", "code"]
 
 ## 🟢 Anshul Kaushal
 @@center ![](/assets/Anshul.jpg) @@
-> My name is Anshul Kaushal, and I am currently a senior undergraduate student at Panjab University, India, pursuing a degree in Computer Science and Engineering. I have worked with Prof. Maria Dainotti at the intersection of Astrophysics and Computer Science, focusing on the reconstruction of Gamma-Ray Bursts.
+> I am Anshul Kaushal, a senior undergraduate student at Panjab University, India, pursuing a degree in Computer Science and Engineering. I have worked with Prof. Maria Dainotti at the intersection of Astrophysics and Computer Science, focusing on the reconstruction of Gamma-Ray Bursts. I had the privilege to contribute as the first author in two research papers titled "Gamma-Ray Burst Light Curve Reconstruction: A Comparative Machine and Deep Learning Analysis" and "Multi-model framework for reconstructing gamma-Ray burst light curves" under the guidance of Professor Maria Dainotti.
 [Read Anshul's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anshul_testimonial.pdf)
 
 ## 🟢 John Felix
