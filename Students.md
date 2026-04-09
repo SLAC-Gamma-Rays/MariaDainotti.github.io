@@ -156,7 +156,7 @@ Dr. Maria on supernova cosmology to investigate the Hublle tension problem.
 ## 🟢 Madhan Arunkumar
 @@center ![](/assets/Madhan.jpg) @@  
 > Hi, I am Madhan Arunkumar. I am currently preparing for the Master's in Theoretical Physics at the University of Hertfordshire. I worked with Prof. Dainotti on the application of Machine Learning models in the context of astronomy. 
-[Read Madhan's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Madhan_letter.pdf)
+[Read Madhan's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Madhan_letter.pdf)
 
 ## 🟢 Khushi Gupta
 @@center ![](/assets/kushi.png) @@  
