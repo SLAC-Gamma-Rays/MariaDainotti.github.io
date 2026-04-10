@@ -163,6 +163,11 @@ Dr. Maria on supernova cosmology to investigate the Hublle tension problem.
 > Hi, I am Khushi Gupta. I recently completed my Bachelors in Computer Science, from AKTU University, India. I've worked with Prof Maria Dainotti on the reconstruction of Gamma Ray Burst lightcurves through Machine Learning methods.
 [Read Kushi's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Appreciation-Letter-Kushi.pdf)
 
+## 🟢 Iolanda Navone
+@@center ![](/assets/Navone.png) @@  
+> My name is Iolanda Navone and I recently graduated from La Sapienza University of Rome. Maria has been my co-supervisor for my master thesis on the role of matter creation on cosmological dynamics, and later supervised my work for the Asian Winter Internship at NAOJ.
+[Read Iolanda's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Appreciation_letter_Navone.pdf)
+
 # High School students
 
 ## 🟢 Leonardo C. Zambrano Tapia
