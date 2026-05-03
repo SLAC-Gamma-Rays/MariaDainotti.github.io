@@ -82,6 +82,11 @@ tags = ["syntax", "code"]
 > Hello, my name is Wajih Jamal, I graduated with a degree in Physics from the Lebanese International University (LIU) and work as a project manager in technology localization. My experience with Dr. Dainotti began in 2023 when she gave me the opportunity to contribute to the largest catalogue of optical GRBs, and has resulted in my first publication as her co-author thanks to her guidance.
 [Read Wajih's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_WajihJamal.pdf)
 
+## 🟢 Syed Naqi Abbas
+@@center ![](/assets/Syed.png) @@  
+> I am Syed Naqi Abbas, a B.Tech student in Information Technology at Kamla Nehru Institute of Technology (KNIT), Sultanpur, India. I had the great privilege of working as a Research Intern at the National Astronomical Observatory of Japan (NAOJ) from December 2024 to July 2025, under the supervision of Dr. Maria Giovanna Dainotti.
+[Read Syed's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Syed_letter.pdf)
+
 # Masters
 
 ## 🟢 Aleksander Łukasz Lenart
