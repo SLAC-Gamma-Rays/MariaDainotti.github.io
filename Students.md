@@ -170,7 +170,7 @@ Dr. Maria on supernova cosmology to investigate the Hublle tension problem.
 
 ## 🟢 Iolanda Navone
 @@center ![](/assets/Navone.png) @@  
-> My name is Iolanda Navone and I recently graduated from La Sapienza University of Rome. Maria has been my co-supervisor for my master thesis on the role of matter creation on cosmological dynamics, and later supervised my work for the Asian Winter Internship at NAOJ.
+> My name is Iolanda Navone and I recently graduated from La Sapienza University of Rome. Maria has been my co-supervisor for my master thesis on the role of matter creation on cosmological dynamics, and later supervised my work for the Asian Winter Internship at NAOJ, an opportunity that I would have never heard of had she not encouraged me to apply.
 [Read Iolanda's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Appreciation_letter_Navone.pdf)
 
 # High School students
