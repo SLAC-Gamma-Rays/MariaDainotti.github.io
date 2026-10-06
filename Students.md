@@ -60,7 +60,7 @@ tags = ["syntax", "code"]
 ## 🟢 Anjali Deepu
 @@center ![](/assets/Anjani.png) @@
 > I am Anjali Deepu, a second-year undergraduate student in the Department of Ocean Engineering and Naval Architecture at the Indian Institute of Technology Kharagpur. I had the distinct privilege of working under the guidance of Prof. Maria Dainotti as a co-author of the research paper titled ["Gamma-Ray Burst Light Curve Reconstruction: A Comparative Machine and Deep Learning Analysis"](https://arxiv.org/abs/2412.20091).
-[Read Anjali's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anjani_letter.pdf)
+[Read Anjali's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Anjani_letter.pdf)
 
 ## 🟢 Anshul Kaushal
 @@center ![](/assets/Anshul.jpg) @@
@@ -75,7 +75,7 @@ tags = ["syntax", "code"]
 ## 🟢 Sama Khanjani
 @@center ![](/assets/Sama.jpg) @@
 > I am a passionate researcher and aspiring master's student in computational quantum chemistry and nano-chemistry. Due to educational barriers in my country that prevented me from pursuing chemistry directly, I completed my degree in pharmaceutical sciences while independently mastering quantum chemistry, molecular modeling, and Python for chemical simulations. My perseverance led me to research collaborations, including cosmological data analysis with Professor Maria Dainotti, which further strengthened my computational skills and deepened my fascination with observing and analyzing the behavior of atoms and matter at macroscopic scales that always fascinates me!! I collaborated with Professor Maria on a cosmological research project studying Type Ia supernovae to address the Hubble tension.
-[Read Sama's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter-Sama-Khanjani.pdf)
+[Read Sama's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Testimonial_Letter-Sama-Khanjani.pdf)
 
 ## 🟢 Wajih Jamal
 @@center ![](/assets/WajihJamal.jpeg) @@  
@@ -176,7 +176,7 @@ Dr. Maria on supernova cosmology to investigate the Hublle tension problem.
 ## 🟢 Ritik Kumar
 @@center ![](/assets/Ritik_photo.jpeg) @@  
 > Hi, I am Ritik Kumar, and I am a 5th-year BS-MS student in Physics (as of 2026) at the Indian Institute of Science, Bengaluru, India. I have been working with Maria since March 2025 on the reconstruction of Gamma-Ray Burst light curves using machine learning and polynomial models. We have published one paper together, and one paper and one conference proceeding are currently under review. In particular, I have worked on developing machine learning models from scratch and testing uncertainties, validations.
-[Read Ritik's testimonial about her working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Ritik_Kumar_Testimonial.pdf)
+[Read Ritik's testimonial about his working experience with Maria](https://github.com/SLAC-Gamma-Rays/MariaDainotti.github.io/blob/main/_assets/Ritik_Kumar_Testimonial.pdf)
 
 # High School students
 
